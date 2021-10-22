@@ -1,0 +1,6 @@
+framework module UISliderView {
+  umbrella header "UISliderView-umbrella.h"
+
+  export *
+  module * { export * }
+}
